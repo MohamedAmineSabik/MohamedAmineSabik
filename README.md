@@ -4,7 +4,7 @@
 
 **Welcome to my GitHub profile ! I'm passionate about everything related to data engineering,data science and Cloud architectures  and excited to share my projects and contributions with you.**
 
-### 👧 About Me
+### 👨 About Me
 - 📚  Big Data enthusiast with a strong foundation in data engineering.
 - 🛢️ Experienced in designing and building data pipelines for data processing and analysis.
 - 🧩 A problem solver who loves tackling complex data challenges.
